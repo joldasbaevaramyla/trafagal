@@ -1,0 +1,276 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    height: 200px;
+}
+
+nav {
+    height: 150px;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.icon {
+    display: inline-block;
+}
+
+.icon-header {
+    display: inline-block;
+}
+
+.icon-nave {
+    display: inline-block;
+    padding-left: 850px;
+
+}
+
+.my {
+    color: #1F1534;
+
+}
+
+.gar {
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.fagar {
+    padding: 6px 10px;
+    border-radius: 50%;
+    background-color: #458FF6;
+    color: #fff;
+}
+
+.vertual{
+    display: flex;
+    gap: 300px;
+}
+
+.left{
+    padding-top: 150px;
+  
+}
+
+.hea{
+    font-size:35px ;
+}
+.today{
+    width: 150px;
+    height: 36px;
+    background-color: #458FF6;
+    border: 1px solid #458FF6;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.prov{
+    padding-bottom: 200px;
+}
+
+.vig{
+    text-align: center;
+}
+
+.what{
+    color: grey;
+}
+
+.can{
+    display: flex;
+    padding-left: 410px;
+    gap: 20px;
+}
+
+.you{
+    width: 240px;
+    height: 250px;
+    padding: 10px 10px; 
+}
+.and{
+    padding: 30px 20px;
+}
+
+.hide{
+    display: flex;
+    padding-left: 410px;
+    gap: 20px;
+}
+
+.morer{
+    width:150px ;
+    height: 36px;
+    border-radius: 15px;
+    border: 1px solid #458FF6;
+    color: #458FF6;
+    background-color: #fff;
+   
+}
+
+
+.we{
+    padding-left: 680px;
+}
+
+.its{
+   padding-left: 120px;
+}
+.xrom{
+    display: flex;
+   padding-top: 100px;
+   gap: 200px;
+
+}
+
+.new{
+    width: 650px;
+    height: 477px;
+}
+
+
+.liyn{
+    padding-top: 100px;
+}
+
+.awr{
+    font-size:35px;
+}
+
+.school{
+    color: grey;
+}
+.hem{
+    padding-top: 150px;
+}
+
+.were{
+    width:150px ;
+    height: 36px;
+    border-radius: 15px;
+    border: 1px solid #458FF6;
+    color: #458FF6;
+    background-color: #fff;
+    
+}
+
+.kind{
+    display: flex;
+   gap: 300px;
+}
+
+.duo{
+  padding-top: 100px;
+    margin-left: 120px;
+    
+
+}
+.lin{
+     gap:29px;
+    width: 1120px;
+    height: 425px;
+    background-color: #458FF6;
+    border-radius: 15px;
+
+}
+.ary{
+display: flex;
+    gap: 100px;
+}
+
+.nid{
+    color: #fff;
+    padding-left: 400px;
+}
+
+.wert{
+    display: flex;
+    padding: 150px 90px;
+    gap: 30px;
+}
+.emg{
+    width: 141px;
+    height: 141px;
+    border: 4px solid #fff;
+    border-radius: 50%;
+}
+
+
+.kev{
+    padding-top: 40px;
+    color: #fff;
+}
+
+.company{
+    padding-top: 200px;
+}
+.mr{
+    padding-top: 180px;
+   margin-left: 150px;
+   color: #fff;
+}
+
+.emma{
+    display: flex;
+    gap: 10px;
+    margin-left: 131px;
+}
+
+.lov{
+    padding-left: 530px;
+}
+
+.simp{
+    color: grey;
+}
+
+.rep{
+    color: #458FF6;
+}
+
+.all{
+    width:150px ;
+    height: 36px;
+    border-radius: 15px;
+    border: 1px solid #458FF6;
+    color: #458FF6;
+    background-color: #fff;
+    
+}
+
+.lu{
+    padding-left: 550px;
+}
+.bich{
+    height: 300px;
+    background-color: #67C3F3;
+    color: #fff;
+    padding: 80px 55px;
+    
+}
+.real{
+    padding: 6px 10px;
+    border-radius: 50%;
+    background-color: #fff;
+    color:#458FF6; 
+}
+
+.end{
+    display: flex;
+    gap: 210px;
+}
+
+.apple a{
+    color:#fff ;
+}
